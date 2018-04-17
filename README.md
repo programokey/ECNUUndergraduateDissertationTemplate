@@ -2,7 +2,7 @@
 
 ### 华东师范大学本科生毕业论文模板
 
-本模板的封面参考了[fentensoft](https://github.com/fentensoft)制作的[ecnu-latex](https://github.com/fentensoft/ecnu-latex)模板。
+本模板除了对[ 袁轶君 ](https://gitee.com/YijunYuan)制作的[华东师范大学本科生毕业论文LaTeX模板](https://gitee.com/YijunYuan/ECNU-Undergraduate-LaTeX)模板的封面进行了修改外没有进行其他改动。
 
 ### 结构
 
@@ -23,7 +23,7 @@
 |   |-- Acknowledgement.tex
 |   `-- Appendix.tex
 |-- figures
-|   |-- ecnu_cn.eps
+|   |-- ECNUlogo.png
 |   `-- figure_example1.jpg
 |-- reference
 |   `--thesis-ref.bib
@@ -82,7 +82,7 @@
 
 另外，每个附件都是单独成页的。
 
-#### `~\figures\ecnu_cn.eps`
+#### `~\figures\ECNUlogo.png`
 
 学校logo，请勿修改或删除。
 
