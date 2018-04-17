@@ -1,0 +1,65 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {一、}章节结构测试}{1}{section.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {（一）}小节标题}{1}{subsection.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.}子节标题}{1}{subsubsection.1.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {（1）}段标题}{1}{paragraph.1.1.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{\numberline {1）}小段标题}{1}{subparagraph.1.1.1.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {二、}定理等环境测试}{1}{section.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {（一）}编号环境与不编号环境}{1}{subsection.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.}编号环境}{1}{subsubsection.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.}无编号环境}{1}{subsubsection.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {三、}公式测试}{2}{section.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {（一）}行内公式}{2}{subsection.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {（二）}整行公式}{2}{subsection.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {（三）}多行公式}{2}{subsection.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.}align环境}{2}{subsubsection.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.}split环境（内嵌）}{3}{subsubsection.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.}带大括号的多行公式}{3}{subsubsection.3.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {（1）}cases}{3}{paragraph.3.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {（2）}array}{3}{paragraph.3.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {（3）}aligned}{3}{paragraph.3.3.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {（四）}交换图}{3}{subsection.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {四、}表与图}{4}{section.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {（一）}表格}{4}{subsection.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {（二）}插图}{5}{subsection.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {五、}注释与引用}{5}{section.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {（一）}注释——脚注与尾注}{6}{subsection.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.}脚注}{6}{subsubsection.5.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.}尾注}{6}{subsubsection.5.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {（二）}文献引用的演示}{6}{subsection.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{参考文献}{8}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{附录 \numberline {一、}实验数据}{8}{附录.1.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{附录 \numberline {二、}调查结果}{9}{附录.1.B}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{致谢}{10}{section*.7}
